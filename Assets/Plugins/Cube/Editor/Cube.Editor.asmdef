@@ -1,0 +1,17 @@
+{
+    "name": "Cube.Editor",
+    "references": [
+        "GUID:b8d50c5fd269a9142a1311b2c821ac9c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
